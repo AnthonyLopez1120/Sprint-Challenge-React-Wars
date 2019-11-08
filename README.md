@@ -28,11 +28,19 @@ Demonstrate your understanding of this Sprint's concepts by answering the follow
 
 - [ ] What does it mean to _think_ in react?
 
-- [ ] Describe state.
+Thinking about constructing an app utilizing components. Which components will be imported, which componets will be pulling data, ect
 
-- [ ] Describe props.
+- [ ] Describe state
+
+State is data in its current form. State can change, creating a new state, such as a score change, or a to do list being checked off
+
+- [ ] Describe props
+
+props are containers for stateful data to be passed down in components
 
 - [ ] What are side effects, and how do you sync effects in a React component to state or prop changes?
+
+side effects are anything that affects somethihng ouside the scope of the function being executed, such as fecthing data from an API
 
 ## Project Set Up
 
