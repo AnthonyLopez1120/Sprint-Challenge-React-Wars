@@ -28,7 +28,7 @@ Demonstrate your understanding of this Sprint's concepts by answering the follow
 
 - [ ] What does it mean to _think_ in react?
 
-- [ ] Describe state.
+- [ ] Describe state
 
 - [ ] Describe props.
 
